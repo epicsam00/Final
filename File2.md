@@ -15,6 +15,9 @@
 #### What it looked like
 ![burrito](https://user-images.githubusercontent.com/75866519/101970203-b03d6180-3bee-11eb-882f-07565f52b64e.jpg)
 
-##### Other File
+##### What I drank with it 
+[Coke Bottle](https://www.target.com/p/coca-cola-20-fl-oz-bottle/-/A-12953529)
+
+###### Other File
 [ReadMe](https://github.com/epicsam00/Final/blob/main/README.md)
 
