@@ -12,3 +12,5 @@
 6. Tortilla strips
 ### Where I got it from
 [https://www.qdoba.com/]
+#### What it looked like
+![burrito](burrito.jpg)
